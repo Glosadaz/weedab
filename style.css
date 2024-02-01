@@ -1,0 +1,14 @@
+/* @charset "UTF-8";
+/* Basic Page Styles */
+body {
+	font-family: Tahoma, Verdana, sans-serif;
+	color: #000000;
+	margin: 0 auto;
+	min-width: 768px;
+	max-width: 1024px;
+}
+
+.image {
+	padding-left: 40%;
+	padding-inline-end:40%;
+}
